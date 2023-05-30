@@ -6,11 +6,11 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "com.burhanrashid52.photoediting"
+        applicationId "com.leos.photoediting"
         minSdkVersion 21
         targetSdkVersion 32
         versionCode 8
-        versionName "3.0.1"
+        versionName "1.61"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
